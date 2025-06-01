@@ -84,3 +84,5 @@ O sistema inclui uma função de avaliação automática com 5 perguntas de test
    pip install -r requirements.txt
    
 3. Execute o código chatbot.py para rodar.
+
+4. Para rodar a aplicação streamlit faça streamlit run app.py.
