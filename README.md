@@ -79,3 +79,8 @@ O sistema inclui uma função de avaliação automática com 5 perguntas de test
    ```bash
    git clone https://github.com/seunome/chat-medico-tinyllama.git
    cd chat-medico-tinyllama
+
+2. Instale as dependências:
+   pip install -r requirements.txt
+   
+3. Execute o código chatbot.py para rodar.
