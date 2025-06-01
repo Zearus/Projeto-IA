@@ -1,0 +1,14 @@
+pandas>=1.5.3
+requests>=2.31.0
+deep-translator>=1.11.4
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.2
+transformers>=4.39.3
+accelerate>=0.27.2
+torch==2.1.0+cu121
+torchvision==0.16.0+cu121
+torchaudio==2.1.0+cu121
+langchain>=0.1.14
+langchain-community>=0.0.30
+langchain-huggingface>=0.0.3
+gradio>=4.28.3
