@@ -1,0 +1,36 @@
+Remédio;Indicação;Posologia (Como usar);Efeitos Colaterais Principais;Contraindicações Principais;Observações Úteis
+Paracetamol;Dor e febre;500 mg a cada 6-8h, máx 4g/dia;Náusea, erupções cutâneas;Insuficiência hepática, alergia;Uso com cautela em hepatopatas
+Dipirona;Dor e febre;500-1000 mg até 4x/dia;Reações alérgicas graves;Alergia à dipirona, hipotensão;Pode causar choque anafilático
+Ibuprofeno;Inflamações, dores, febre;400 mg a cada 6-8h, máx 3,2g/dia;Dor abdominal, azia;Úlcera, insuficiência renal;Evitar uso prolongado sem orientação
+Amoxicilina;Infecções bacterianas;500 mg a cada 8h por 7-10 dias;Diarreia, náusea;Alergia a penicilinas;Tomar com alimentos pode ajudar
+Azitromicina;Infecções bacterianas;500 mg 1x/dia por 3-5 dias;Náusea, diarreia;Alergia a macrolídeos;Evitar com antiácidos
+Losartana;Hipertensão;50-100 mg 1x/dia;Tontura, fadiga;Gravidez, hipersensibilidade;Pode causar hipotensão
+Enalapril;Hipertensão, insuficiência cardíaca;10-20 mg 1-2x/dia;Tosse seca, tontura;Angioedema prévio, gravidez;Monitorar potássio e função renal
+Metformina;Diabetes tipo 2;500-850 mg 2-3x/dia;Diarreia, desconforto abdominal;Insuficiência renal grave;Tomar com alimentos para reduzir desconforto
+Glibenclamida;Diabetes tipo 2;2,5-5 mg 1-2x/dia;Hipoglicemia, ganho de peso;Cetoacidose, insuficiência renal;Monitorar glicemia regularmente
+Sinvastatina;Dislipidemia (colesterol alto);10-40 mg à noite;Dor muscular, alteração hepática;Doença hepática ativa, gravidez;Evitar álcool, monitorar enzimas hepáticas
+Loratadina;Alergias (rinite, urticária);10 mg 1x/dia;Sonolência leve, dor de cabeça;Hipersensibilidade;Uso com cautela em hepatopatas
+Cetirizina;Alergias (rinite, urticária);10 mg 1x/dia;Sonolência, dor de cabeça;Hipersensibilidade;Menos sonolência que a Loratadina
+Omeprazol;Gastrite, refluxo;20-40 mg 1x/dia;Dor abdominal, diarreia;Hipersensibilidade;Tomar antes das refeições
+Pantoprazol;Gastrite, refluxo;40 mg 1x/dia;Dor abdominal, dor de cabeça;Hipersensibilidade;Tomar em jejum
+Fluoxetina;Depressão, ansiedade;20-40 mg 1x/dia;Insônia, náusea, dor de cabeça;Uso com IMAO, hipersensibilidade;Pode demorar semanas para efeito
+Sertralina;Depressão, ansiedade;50-100 mg 1x/dia;Náusea, diarreia, dor de cabeça;Uso com IMAO, hipersensibilidade;Melhor tomar pela manhã
+Alprazolam;Ansiedade, síndrome do pânico;0,25-0,5 mg 2-3x/dia;Sonolência, dependência, tontura;Glaucoma de ângulo fechado, hipersensibilidade;Uso controlado, risco de dependência
+Diazepam;Ansiedade, insônia;5-10 mg à noite;Sonolência, tontura, dependência;Miastenia gravis, apneia do sono;Uso controlado
+Lorazepam;Ansiedade, insônia;1-2 mg à noite;Sonolência, tontura, dependência;Glaucoma, hipersensibilidade;Evitar uso prolongado
+Furosemida;Hipertensão, edema;20-40 mg 1-2x/dia;Tontura, desidratação, hipocalemia;Anúria, desidratação grave;Monitorar potássio e função renal
+Hidroclorotiazida;Hipertensão, edema;12,5-25 mg 1x/dia;Tontura, hipocalemia;Anúria, hipersensibilidade;Monitorar eletrólitos
+Prednisona;Inflamações, alergias;5-60 mg/dia (ajustar conforme gravidade);Inchaço, aumento de peso, insônia;Infecções sistêmicas não tratadas;Uso prolongado pode causar efeitos graves
+Dexametasona;Inflamações, alergias;0,5-10 mg/dia;Insônia, aumento de apetite;Infecções sistêmicas não tratadas;Potente anti-inflamatório
+Clonazepam;Crises epilépticas, ansiedade;0,25-2 mg/dia;Sonolência, dependência;Glaucoma, hipersensibilidade;Uso controlado
+Buscopan (Escopolamina);Cólica intestinal;10-20 mg até 3x/dia;Boca seca, visão turva;Glaucoma, problemas urinários;Cuidado com idosos
+Dramin (Dimenidrinato);Náuseas, vômitos, enjoo;50-100 mg a cada 4-6h;Sonolência, tontura;Hipersensibilidade, glaucoma;Evitar operar máquinas
+Salbutamol (Aerolin);Asma, broncoespasmo;100-200 mcg (1-2 jatos) até 4x/dia;Tremores, taquicardia;Hipersensibilidade, taquiarritmia;Uso sob orientação médica
+Cetoconazol;Infecções fúngicas (micoses);200-400 mg/dia;Náusea, hepatotoxicidade;Doença hepática, gravidez;Monitorar função hepática
+Nimesulida;Dor e inflamação;100 mg 2x/dia;Náusea, dor abdominal, toxicidade hepática;Insuficiência hepática, úlcera;Uso com cautela, não prolongar
+Diclofenaco;Alívio da dor e inflamação em condições musculoesqueléticas e articulares.;Tomar 50 mg a cada 8 ou 12 horas, conforme orientação médica.;Dor de estômago, náuseas, risco de úlcera gástrica.;Úlcera gástrica ativa, insuficiência hepática grave, hipersensibilidade aos componentes.;Usar com cautela em pacientes com histórico de problemas gástricos.
+Cetoprofeno;Alívio da dor e inflamação em doenças musculoesqueléticas.;50 a 100 mg, 2 a 3 vezes ao dia, conforme orientação médica.;Náuseas, dispepsia, dor abdominal.;Úlcera gástrica, insuficiência renal ou hepática grave.;Recomenda-se ingerir com alimentos para reduzir irritação gástrica.
+Levonorgestrel;Contracepção de emergência (pílula do dia seguinte).;Tomar 1,5 mg em dose única até 72 horas após a relação sexual desprotegida.;Náuseas, vômitos, alterações menstruais.;Gravidez confirmada, hipersensibilidade ao levonorgestrel.;Quanto mais cedo for utilizada, maior a eficácia.
+Etinilestradiol;Componente de contraceptivos orais combinados.;Usado em associação com progestagênios, conforme esquema do contraceptivo.;Náuseas, cefaleia, aumento do risco de trombose.;Histórico de trombose, câncer de mama, doenças hepáticas graves.;Uso deve ser avaliado em mulheres com fatores de risco cardiovascular.
+Amitriptilina;Tratamento da depressão, enurese noturna e dor neuropática.;25 a 150 mg ao dia, conforme indicação médica.;Sonolência, boca seca, ganho de peso.;Infarto recente, glaucoma de ângulo fechado, retenção urinária.;Deve ser descontinuado gradualmente para evitar efeitos de abstinência.
+Hidroxicloroquina;Tratamento de malária, lúpus eritematoso sistêmico e artrite reumatoide.;200 a 400 mg por dia, conforme indicação médica.;Distúrbios visuais, náuseas, dor de cabeça.;Retinopatia preexistente, hipersensibilidade ao fármaco.;Recomenda-se avaliação oftalmológica periódica durante o uso.
