@@ -12,6 +12,18 @@ Desenvolver um assistente conversacional que responda dúvidas sobre medicamento
 
 ---
 
+##  Integrantes 
+
+10402647, David Varão Lima Bentes Pessoa
+
+10400720, João Pedro de Souza Costa Ferreira
+
+10400725, João Victor Dallapé
+
+10401616, Pedro Nomura Picchioni
+
+10400787, Victor Vaglieri de Oliveira
+
 ##  Dados Utilizados
 
 - Arquivo `remedios.csv` com colunas como:
