@@ -4,6 +4,10 @@
 
 Um chatbot inteligente para recomendação de medicamentos com base em bulas reais, utilizando Recuperação de Informação com Geração (RAG), embeddings semânticos, e um modelo leve de linguagem natural (TinyLLaMA). O sistema responde perguntas médicas com precisão e pode recorrer a fontes oficiais como a base OpenFDA caso a resposta não esteja na base local.
 
+Link para o Colab: https://colab.research.google.com/drive/1EQHRDf3yPH2GHjiOyZHmqnZqB3qdzSAU?usp=sharing
+
+Link para o vídeo: https://www.youtube.com/watch?v=G7_Mc_--shw&t=1s
+
 ---
 
 ##  Objetivo
