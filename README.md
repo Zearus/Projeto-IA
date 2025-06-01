@@ -93,8 +93,7 @@ O sistema inclui uma função de avaliação automática com 5 perguntas de test
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seunome/chat-medico-tinyllama.git
-   cd chat-medico-tinyllama
+   git clone https://github.com/Zearus/Projeto-IA.git
 
 2. Instale as dependências:
    pip install -r requirements.txt
